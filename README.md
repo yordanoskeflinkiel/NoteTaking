@@ -4,7 +4,7 @@ Hello! This is the first beta version of my simple yet effective C++ GUI applica
 
 Features:
 
--Create Notes: Easily jot down your thoughts and save them directly as .txt files.
+- Create Notes: Easily jot down your thoughts and save them directly as .txt files.
 
 - Edit Notes: Modify your existing notes and hit 'Save' to keep the changes.
 
