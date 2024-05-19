@@ -16,5 +16,9 @@ Instructions:
 - Saving a Note: Click the 'Save' button and choose a location for your .txt file.
 - Editing an Existing Note: Open your note, make changes, and press 'Save'.
 - Uploading a File: Use the 'Upload' button to open a .txt file, then edit and save it as described above.
-  
+
+Download Instrcutions: 
+
+-To download, head over the releases section to download the exe file and test it out, here is a direct link: https://github.com/yordanoskeflinkiel/NoteTaking/releases/tag/v1.0
+
 This note-taking app is straightforward and handy for everyday use. Enjoy managing your notes effortlessly, and please feel free to provide feedback as further enhancements are made!
