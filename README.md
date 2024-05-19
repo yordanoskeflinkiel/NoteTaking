@@ -1,6 +1,6 @@
 
 # Welcome to My First C++ GUI Application: Note Taker (Beta)
-Hello! This is the first beta version of my simple yet effective C++ GUI application, designed to enhance your note-taking experience. While this project is still in development, I wanted to share the progress and gather feedback to improve it. Here’s what you can do with the application currently:
+Hello! This is the first beta version of my simple yet effective C++ GUI application. While this project is still in development, I wanted to share the progress and gather feedback to improve it. Here’s what you can do with the application currently:
 
 Features:
 
